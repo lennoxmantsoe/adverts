@@ -9,7 +9,7 @@
 
 /* Hide the images by default */
 .mySlides {
-  display: visible;
+  display: show;
 }
 
 /* Next & previous buttons */
